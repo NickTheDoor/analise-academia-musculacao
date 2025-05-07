@@ -78,7 +78,7 @@ A análise pode ser utilizada para entender melhor o comportamento dos alunos em
 
 ##  Links
 - **Repositório do Projeto**: [\[GitHub Link\]](https://github.com/NickTheDoor/analise-academia-musculacao.git)
-- **Dashboard Interativo no Power BI**: (Adicione o link aqui, caso tenha publicado)
+- **Dashboard Interativo no Power BI**: 
 
 ---
 
